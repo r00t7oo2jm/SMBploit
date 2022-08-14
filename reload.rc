@@ -1,0 +1,8 @@
+# Code By : ALIF FUSOBAR - master@itsecurity.id - www.itsecurity.id
+
+echo "# DO NOT CLOSE CURRENT WINDOW #"
+sleep 1
+reload_all
+sleep 1
+exit
+echo "# NOW YOU CAN CLOSE THE WINDOW #"
