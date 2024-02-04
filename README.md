@@ -6,7 +6,7 @@
 * Install
 ```cmd
 cd ~
-git clone https://github.com/Xcod3bughunt3r/SMBploit.git
+git clone https://github.com/r00t7oo2jm/SMBploit.git
 cd SMBploit/ && chmod 777 *.sh
 ./install.sh && ./SMBploit.sh
 ```
